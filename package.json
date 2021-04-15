@@ -1,0 +1,11 @@
+{
+  "name": "createPool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vechain/connex-driver": "^2.0.2",
+    "@vechain/connex-framework": "^2.0.2",
+    "lodash": "^4.17.21"
+  }
+}
